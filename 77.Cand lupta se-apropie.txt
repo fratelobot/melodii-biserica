@@ -26,4 +26,4 @@ Războiul e al Domnului
 Căci fruntea oștirii e chiar Dumnezeu
 Războiul e al Domnului
 ---
-v1 r v2 r v3 r
+v1 v1 r v2 v2 r r v3 v3 r r
