@@ -1,0 +1,50 @@
+v1
+Păstori au alergat, să vadă Pruncul
+Cel care-a fost vestit
+
+Născut în iesle
+Domn din vecie
+
+Ce minunat Împărat
+Ce minunat Împărat
+---
+r
+Aud cum cântă îngeri
+Aleluia, laudă Regelui Isus
+
+Căci a venit la noi din iubire
+S-a născut Isus!
+
+S-a născut Isus!
+---
+v2
+Păstorii s-au grăbit să ducă vestea
+Căci S-a născut Isus
+
+Slăveau pe Dumnezeu
+Căci a venit din cer
+
+Ce minunat Împărat!
+Ce minunat Împărat!
+---
+b
+Glorie! Glorie!
+S-a născut Mesia!
+---
+r2
+Aud cum cântă îngeri
+Aleluia, laudă Regelui Isus
+
+Căci a venit la noi din iubire
+S-a născut Isus!
+---
+out
+Toți să știe, să cunoască,
+Pruncul Isus veni!
+
+El cerul l-a lăsat să mântuiască,
+Ce minunat Împărat!
+
+Ce minunat Împărat!
+---
+v1 r v2 r b b b b r2 r out

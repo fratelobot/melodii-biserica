@@ -1,0 +1,43 @@
+r
+Deci poţi să alegi ce vrei
+şi apoi s-o iei
+
+pe drumul care l-ai ales
+alege deci ce vrei
+---
+v1
+Nu lăsa pe mâine
+ce poţi face azi
+
+Totul se rezumă
+la un singur pas
+---
+v2
+Deci poţi să alegi ce vrei
+şi apoi s-o iei
+
+pe drumul care l-ai ales
+Alege deci ce vrei
+---
+v3
+Nu te-ncrede-n oameni
+că te părăsesc
+
+Când ţi-e lumea mai dragă
+ei te amăgesc
+---
+v4
+Crede doar în Isus
+nu te va lăsa
+
+Totul va fi bine
+dacă-L vei urma
+---
+v5
+Nu te-ncrede-n mâine
+ce va fi, nu ştii
+
+Orice vei alege
+te va urmări
+---
+v1 v2 v3 r v4 r v5 r

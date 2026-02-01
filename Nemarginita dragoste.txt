@@ -1,0 +1,44 @@
+r
+Nu-i ceață prea deasă, vale prea joasă ca să mă găsești
+Niciun zid nu-i prea tare, nu-i munte prea mare ca să mă găsești
+---
+v1
+O,nemărginită, necuprinsă
+dragoste a Ta
+
+O,mă urmărește,mă găsește și
+când sunt pierdut
+
+N-am câștigat-o, n-am meritat-o,însă zilnic o primesc
+O,nemărginită, necuprinsă
+
+dragoste a Ta
+---
+v2
+Când nici nu existam la mine Te gândeai
+Dragoste îmi arătai
+
+Când nici nu respiram viață Tu mi-ai suflat
+Dragoste mi-ai arătat
+---
+v3
+Când eu rătăceam,Doamne, mă căutai
+Dragoste îmi arătai
+
+Când nu meritam pe cruce ai urcat
+Harul Tău mi-ai arătat
+---
+v4
+O,nemărginită, necuprinsă
+dragoste a Ta
+
+O,mă urmărește,mă găsește și
+când sunt pierdut
+
+N-am câștigat-o, n-am meritat-o
+însă zilnic o primesc
+
+O,nemărginită, necuprinsă
+dragoste a Ta
+---
+v2 v1 v3 v4 r r r v1

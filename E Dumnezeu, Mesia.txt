@@ -1,0 +1,63 @@
+v1
+Îți amintești azi de al tău trecut
+Lanțuri, păcate, prizonier te-au ținut
+
+Dar Isus, a venit, s-a jertfit
+Și liber ești acum
+---
+v2
+Îți amintești de moarte și mormânt
+Frica de ele te ținea la pământ
+
+Dar Isus, a murit, a-nviat
+Așa ți-a dat viață
+---
+r
+E Dumnezeu, Cel ce ne-a iubit, Mesia
+E Dumnezeu, ce ne-a mântuit, Mesia
+
+Pe cruce sus moarte-a-nfrânt
+Să-L laude cer, pământ
+
+E Dumnezeu, Mesia
+---
+v3
+Îți amintești cum teama te-a copleșit?
+Rugăciunile le-a ‘năbușit
+
+Dar Isus a primit orice șoaptă
+---
+v4
+Prin pustiu altare ne vorbesc
+Cum ne-a purtat prin harul Său ceresc
+
+El nicicând, nicidecum, nu te va lăsa!
+---
+c1
+Cine din moarte m-a scos? Isus Hristos
+Cine-a plătit orice cost?
+
+Numai Tu, Isus!
+---
+c2
+Cine m-a răscumpărat? Iahve, Iahve
+Cine e glorificat?
+
+Numai Tu, Isus
+---
+c3
+Cine m-a răscumpărat? Iahve, Iahve
+Cine e glorificat?
+
+Numai Tu
+---
+end
+Pe cruce sus moarte-a-nfrânt
+Să-L laude cer, pământ
+
+E Dumnezeu, Mesia
+E Dumnezeu, Mesia
+
+E Dumnezeu, Mesia
+---
+v1 v2 r v3 v4 r c1 c1 c2 c3 r end

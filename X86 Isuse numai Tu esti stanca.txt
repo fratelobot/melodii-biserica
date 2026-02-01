@@ -1,0 +1,65 @@
+r
+O,tine-ma mereu
+Isuse Domnul meu
+
+Ca numa’n Tine-s mantuit
+Si-s fericit
+---
+v1
+O,tine-ma mereu
+Isuse ,Domnul meu
+
+Ca numa’n Tine-s mantuit
+Si-s fericit
+---
+v2
+Isuse numai Tu esti stanca
+De mantuire si ajutor
+
+Afar de Tine-s numai valuri
+Suspin si zbucium furios
+---
+v3
+O,tine-ma mereu
+Isuse, Domnul meu
+
+Ca numa’n Tine-s mantuit
+Si-s fericit
+
+O,tine-ma mereu
+Isuse, Domnul meu
+
+Ca numa’n Tine-s mantuit
+Si-s fericit
+
+Amin
+---
+v4
+Isuse numai Tu esti stanca
+Ce-aduce inimii alin
+
+Afar’ de Tine-i numai zbucium
+Si deznadejde si suspin
+---
+v5
+Isuse numai-n Tine-i soare
+Si primavara si frumos
+
+Afar’ de Tine-i numai moarte
+Si chin si vuiet dureros
+---
+v6
+Isuse numai-n Tine-i viata
+Cu desfatari si bucurii
+
+Afar’ de Tine-i numai moarte
+Cu osandiri si morti de vii
+---
+v7
+Isuse numai-n Tine-i raiul
+Cu fericire si cantari
+
+Afar’ de Tine-i numai iadul
+Cu vesnicele remuscari
+---
+v2 v3 r r v4 r r v5 r r v6 v1 v1 v7

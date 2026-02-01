@@ -1,0 +1,30 @@
+v1
+Iată, o lumină-apare
+Să știe fiecare, e zi de sărbătoare
+
+Iată, S-a născut Mesia
+Să-nceapă bucuria în ritm cu veșnicia
+---
+r
+Glorie, S-a născut Isus
+Glorie, pace ne-a adus
+
+Glorie, cerul s-a deschis
+Iubirea ne-a atins printr-un Copil
+---
+v2
+Iată, steaua ce răsare
+Ca să dea culoare, e zi de sărbătoare
+
+Iată, S-a născut Mesia
+Să-nceapă bucuria în ritm cu veșnicia
+---
+b
+Fiecare inimă să fie plină de lumină
+Și fiecare inimă să cânte tare: Glorie!
+---
+b2
+Fiecare inimă să fie plină de lumină
+Și fiecare inimă să cânte tare: S-a născut!
+---
+v1 r v2 b r r b b2

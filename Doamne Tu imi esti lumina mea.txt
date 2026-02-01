@@ -1,0 +1,29 @@
+r
+Doamne Tu îmi ești lumină, îmi ești
+Viață nouă Tu îmi dăruiești
+
+Pașii mi călauzești
+Tu Lumină îmi ești
+---
+v1
+Doamne Tu îmi ești lumină, îmi ești
+Viață nouă Tu îmi dăruiești
+
+Mă conduci pe calea Ta
+Tu, lumina mea
+---
+v2
+Doamne Tu îmi ești lumina mea
+Cănd negura-i grea
+
+Mă conduci mereu pe calea Ta
+Tu lumina mea
+---
+v3
+Doamne Tu îmi ești lumina mea
+În noaptea grea
+
+Mă însoțești mereu pe calea Ta
+Tu lumina mea
+---
+v2 r r v3 r r v1 v1

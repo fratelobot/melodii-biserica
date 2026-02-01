@@ -1,0 +1,52 @@
+v1
+Tu te numesti Atotputernic
+Prin fapte mari esti cunoscut
+
+Tu poti lucra in imposibil
+Cand totul pare ca-i pierdut
+
+Si acolo unde nu-i o cale
+Tu poti deschide din nou uși
+
+Si înaintea fetei Tale
+Sunt bucurii de nedescris
+---
+pre
+Deschideți porțile, sa intre Regele
+Sa intre Împăratul Slavei
+
+Deschideți porțile, neteziti cărările
+El e gata sa lucreze si azi
+---
+r
+Tu esti Domnul minunilor
+Tu esti Domnul minunilor
+
+Tu esti Domnul minunilor
+Tu mereu același Ești, Ești gata sa lucrezi
+---
+v2
+Tu te numesti Vindecătorul
+Si prin minuni, Tu ne răspunzi
+
+Tu ne asiguri viitorul
+Sub aripa Ta ne ascunzi
+
+Tu ne porți mereu de grija
+Cu pacea Ta ne intaresti
+
+Tu poți sa dai și azi odihna
+Și din necaz sa izbăvești
+---
+b
+Pașii tai toarnă belșugul si in bunătatea Ta
+Tata ne ieși inainte si ne dai victoria
+
+Pașii tai toarnă belșugul si in bunătatea Ta
+Tata ne ieși inainte si ne dai victoria Ta
+---
+end
+Tu mereu același Ești, Ești gata sa lucrezi
+Tu mereu același Ești, Domnul minunilor
+---
+v1 pre r v2 pre r r b r r end

@@ -1,0 +1,75 @@
+r
+Știu, Domnul meu
+Vei veni în curând
+
+Și pe norii cerului Vei sta
+Știu Domnul meu Vei veni în curând
+
+Nu voi mai pleca din casa Ta
+---
+v1
+Este oare iertare pentru tot ce-am făcut
+Doamne, pot eu oare
+
+Să vin așa cum sunt
+B: 'Naintea Ta
+
+F: ('Eu voi sta 'naintea Ta)
+B: În fața Ta
+
+F: (Eu voi sta în fața Ta)
+---
+v2
+Este oare iertare pentru tot ce-am făcut
+Doamne, pot eu oare s-o iau de la început
+
+B:‘Naintea Ta
+F:('Eu voi sta 'naintea Ta)
+
+B:În fața Ta
+F:(Eu voi sta în fata Ta)
+---
+v3
+Știu, Domnul meu
+Sunt un om așa rău
+
+Și Te-am întristat mereu
+Știu, Domnul meu
+
+Te-am răstignit chiar eu
+Când am spus: “Nu este Dumnezeu”
+---
+v4
+B: Oare mă poți ierta
+F: Mă poți ierta
+
+Oare mă poți ierta
+Mă poți ierta
+---
+v5
+Cred că este iertate pentru tot ce-am făcut
+Cred că acum e momentul s-o iau de la început
+
+B: 'Naintea Ta
+F: ('Eu voi sta 'naintea Ta)
+
+În fața Ta
+(Eu voi sta în fața Ta)
+---
+v6
+B:Eu voi sta la dreapta Ta
+F:La dreapta Ta
+
+Eu voi sta la dreapta Ta
+La dreapta Ta
+---
+v7
+B:Eu voi sta la dreapta Ta
+F:La dreapta Ta
+
+Eu voi sta la dreapta Ta
+La dreapta Ta
+
+Eu voi sta la dreapta Ta
+---
+v1 v2 v3 v4 v5 r v6 r v7

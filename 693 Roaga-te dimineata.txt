@@ -1,0 +1,41 @@
+v1
+Roagă-te dimineaţa
+Roagă-te şi la prânz
+
+Roagă-te pe-nserate
+Roagă-te orişicând
+
+Roagă-te pe-nserate
+Roagă-te orişicând
+---
+v2
+Ascultă-L dimineaţa
+Ascultă-L şi la prânz
+
+Ascultă-L pe-nserate
+Ascultă-L orişicând
+
+Ascultă-L pe-nserate
+Ascultă-L orişicând
+---
+v3
+Fă bine dimineaţa
+Fă bine şi la prânz
+
+Fă bine pe-serate
+Fă bine orişicând
+
+Fă bine pe-serate
+Fă bine orişicând
+---
+v4
+Dă-I slavă dimineaţa
+Dă-I slavă şi la prânz
+
+Dă-I slavă pe-nserate
+Dă-I slavă orişicând
+
+Dă-I slavă pe-nserate
+Dă-I slavă orişicând
+---
+v1 v2 v3 v4

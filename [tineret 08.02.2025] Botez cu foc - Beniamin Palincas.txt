@@ -1,0 +1,49 @@
+v1
+Vreau să ies Doamne astăzi din mulțime 
+La Iordanul ce prin izvorul său
+
+De sus încă mai curge 
+Un foc din Duhul Tău
+---
+v2
+Vreau să vin lângă Tine mai aproape
+Să primesc pe altarul din pustiu
+
+Botezul ce mă face
+Un rug și eu să fiu
+---
+pre
+De prezența Ta sfințit
+Înconjurat și acoperit
+
+Prin botezul din rugul aprins
+---
+r
+Aprinde Doamne un foc peste viața mea 
+Aprinde Doamne un foc după slava Ta
+
+Aprinde Doamne un foc 
+Un foc peste inima mea 
+
+După inima ta 
+
+Atinge-mi Doamne fruntea iarăși cu ulei
+Aprinde Doamne un foc peste ochii mei
+
+Aprinde Doamne un foc
+Un foc peste inima mea
+
+După inima Ta
+---
+b
+Vreau să ard doar pentru Tine
+Mă chemi desculț așa cum sunt
+
+Să fiu o minune
+Botezat cu focul sfânt
+---
+end
+Să fiu o minune
+Botezat cu focul sfânt
+---
+v1 v2 pre r v1 v2 r b b end

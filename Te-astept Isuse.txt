@@ -1,0 +1,50 @@
+v1
+Te-aştept Isuse privind spre ceruri
+Să văd dacă nu vii
+
+În orice seară, eu Te chem iară’
+Pentru-a mă pregăti.
+---
+r1
+Tu eşti aproape, poate la noapte
+S-ar întâmpla să vii
+
+Haina-mi pătată, nu mi-e curată,
+Ce fac eu dacă vii?
+---
+v2
+Te-aştept şi ziua şi-mi este teamă
+Că Tu vei apărea
+
+O, dă-mi putere când am durere
+Ca să mă pot lupta.
+---
+r2
+Sfântul Tău sânge şi-acuma curge
+El poate-a mă spăla
+
+De orice vină, de orice tină
+Numai Tu poţi ierta.
+---
+v3
+Când dimineaţa dispare ceaţa
+Din pat am tresărit
+
+Mă scol degrabă, privesc afară
+Să văd dac-ai venit.
+---
+r3
+Ca orişicare în aşteptare
+Eu Te aștept mereu
+
+Viaţa mea toată Ți-este predată
+De-acum eu sunt al Tău.
+---
+r4
+Tu ești aproape, poate la noapte 
+S-ar întâmpla să vii
+
+Haină-i curată, nu e pătată 
+De-acuma poți să vii
+---
+v1 r1 v2 r2 r2 v3 r3 r3 r4 r4

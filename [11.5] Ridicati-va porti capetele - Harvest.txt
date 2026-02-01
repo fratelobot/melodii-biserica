@@ -1,0 +1,40 @@
+v1
+Ridicaţi-vă, porţi capetele
+Ridicaţi-vă, porţi veşnice
+
+Ca să intre Împăratul
+Împăratul Slavei
+---
+pre
+Cine e acest Împărat?
+Cine e acest Împărat?
+
+Cine e acest Împărat?
+Împărat al slavei
+---
+r
+El este Domnul tare şi puternic
+Triumfător
+
+El este Domnul cel viteaz în lupte
+Biruitor
+---
+v2
+Cine poate sta împotriva Lui?
+Toţi genunchii se pleacă-n faţa Lui!
+
+Nimeni nu-i ca Împăratul
+Împăratul Slavei
+---
+b
+Vrednic, vrednic e de cinste
+Vrednic de-nchinare
+
+Vrednic de-adorare
+Dumnezeu
+---
+b1
+Vrednic, vrednic e de cinste
+Vrednic de-nchinare...
+---
+v1 v1 pre pre r r v2 v2 pre pre r r b b b b b b b b1 r r

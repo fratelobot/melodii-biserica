@@ -1,0 +1,66 @@
+r
+Exista Dumnezeu cu adevarat
+---
+v1
+Mare Dumnezeu avem
+Mare Dumnezeu avem
+
+Mare Dumnezeu avem
+Dumnezeu,Dumnezeu
+
+Mare Dumnezeu avem
+Mare Dumnezeu avem
+
+Mare Dumnezeu avem
+Dumnezeu,Dumnezeu
+
+Mare avem
+---
+v2
+Toata lumea se intreaba
+De ce noi crestinii
+
+Ii cantam lui Dumnezeu
+Fie noapte fie zi
+
+Noi vom canta mereu
+Caci mare este Dumnezeu
+---
+v3
+Da,Da,Da da vine Domnul
+Da,Da,Da pe nori de slava
+
+Da,Da,Da ca sa-si rapeasca
+Da,Da,Da mireasa intreaga
+---
+v4
+Nu,Nu,Nu el nu ia pacatosii
+Nu,Nu,Nu el nu ia mincinosii
+
+Nu,Nu,Nu el nu ia pe cei raii
+Da,Da,Da doar pe copii Sai
+---
+v5
+Glorie,Slava,Marire
+Glorie,Slava,Marire
+
+Glorie,Slava,Marire
+Aleluia,Caci vine Domnul
+---
+v6
+Mare Dumnezeu avem
+Mare Dumnezeu avem
+
+Mare Dumnezeu avem
+Dumnezeu,Dumnezeu
+
+Mare Dumnezeu avem
+Mare Dumnezeu avem
+
+Mare Dumnezeu avem
+Dumnezeu,Dumnezeu
+
+Mare avem
+Amin
+---
+v1 v2 v2 v1 r r r v3 v4 v5 v6

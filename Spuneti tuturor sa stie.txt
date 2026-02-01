@@ -1,0 +1,51 @@
+r
+Numele Lui,numele Lui
+Numele Lui e minunat
+
+Prin Isus,Dumnezeu de la moarte
+Ne-a salvat
+---
+v1
+Spuneţi tuturor să știe
+Spuneţi la surori și fraţi
+
+Căci în numele lui Isus
+Pot să fie vindecaţi
+---
+v2
+Spuneţi tuturor să știe
+Și la cei nefericiţi
+
+Căci în numele lui Isus
+Pot să fie mântuiţi
+---
+v3
+Spuneţi tuturor să știe
+Și la fraţii lucrători
+
+Căci în numele lui Isus
+Vor ieși biruitori
+---
+v4
+Spuneţi tuturor să știe
+Și la cei cuprinși de dor
+
+Căci în numele lui Isus
+Vor zbura mai sus de nori
+---
+v5
+Numele Lui,numele Lui
+Numele Lui e minunat
+
+Prin Isus,Dumnezeu de la moarte
+Ne-a salvat
+
+Numele Lui,numele Lui
+Numele Lui e minunat
+
+Prin Isus,Dumnezeu de la moarte
+Ne-a salvat
+
+Amin
+---
+v1 r r v2 r r v3 r r v4 v5

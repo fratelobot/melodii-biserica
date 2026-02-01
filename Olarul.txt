@@ -1,0 +1,53 @@
+r
+Fa-ma un vas,un vas in casa Ta
+Fa-ma un vas,spre slava Ta
+
+Fa-ma cum vrei Tu
+Nu voi spune nu
+
+Te voi slavi pe Tine
+Doamne Dumnezeu
+---
+v1
+Tu esti olarul
+Lutul sunt eu
+---
+v2
+Sunt o mana de pamant
+In mana Creatorului
+
+Sunt un bulgaras de lut
+In mana Olarului
+
+Ma pune pe roata, si ma modeleaza
+Ma pune pe roata, si ma prelucreaza
+---
+v3
+Fa-ma un vas,un vas in casa Ta
+Fa-ma un vas,spre slava Ta
+
+Fa-ma cum vrei Tu
+Nu voi spune nu
+
+Te voi slavi pe Tine
+Doamne Dumnezeu
+
+Fa-ma un vas,un vas in casa Ta
+Fa-ma un vas,spre slava Ta
+
+Fa-ma cum vrei Tu
+Nu voi spune nu
+
+Te voi slavi pe Tine
+Doamne Dumnezeu
+
+AMIN
+---
+v4
+Sa fiu de folos
+Pentru cei din jurul meu
+
+Sa fiu de folos
+Pentru Dumnezeu
+---
+v2 v3 r v2 r v2 r v4 r v1 v1 v1 v1

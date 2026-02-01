@@ -1,0 +1,41 @@
+v1
+Doamne, unde ești, furtunii să-I vorbești
+Și îndurarea Ta să șteargă lacrima?
+
+Dar eu mă-nchin și spun: „Amin!”
+Chiar dacă plouă
+---
+pre
+E atât de greu prin tunet să Te-aud șoptind
+Că ești cu mine!
+
+Izbăvitorul meu, port chipul slavei Tale
+Chiar și-atunci când mă lipsești
+---
+r
+Eu te laud în furtuni și-Ți cânt în vreme grea
+Căci Tu rămâi la fel oriunde m-aș afla
+
+Când tunetul cumplit m-a înspăimântat
+Aproape Te-am simțit și-n ploi îngenuncheat
+
+Eu Te laud ne-ncetat
+---
+v2
+Tu ai poruncit și vântul s-a oprit
+M-ai auzit strigând și norii-ai risipit
+
+Dar cum pot să pășesc când nu Te mai zăresc
+Și n-am putere?
+---
+b
+Spre munți ridic privirea mea
+Puternic Dumnezeu
+
+Statornic ajutor
+Speranța din sufletul meu
+---
+end
+Te laud, Te laud în furtuni!
+---
+v1 pre r v2 pre r b b r end

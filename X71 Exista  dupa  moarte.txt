@@ -1,0 +1,36 @@
+r
+Exista dupe moarte vesnicie
+Exista dupa moarte-un nesfarsit
+
+Un nesfarsit de chin sau bucurie
+Depinde cum aicea ai trait
+
+Sa nu te-nseli crezand ca dupa moarte
+Se va sfarsi cu tine si atat
+
+Vei da-n curand o mare socoteala
+De tot ce ai facut pe-acest pamant
+---
+v1
+Viata ta, e buna sau rea
+In rai sau iad vei merge cu ea
+
+In curand se va sfarsi
+In care vesnicie-n curand vei pasi
+---
+v2
+Viata ta, e buna sau rea
+In rai sau iad vei merge cu ea
+
+In curand se va sfarsi
+In care vesnicie-n curand vei pasi
+
+Viata ta, e buna sau rea
+In rai sau iad vei merge cu ea
+
+In curand se va sfarsi
+In care vesnicie-n curand vei pasi
+
+Amin
+---
+r v1 v1 r v2

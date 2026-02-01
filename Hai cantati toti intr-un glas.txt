@@ -1,0 +1,37 @@
+s1
+Voi care-L căutați pe Domnul
+Hai să îl lăudăm pe Împărat
+
+Voi care îl iubiți pe Domnul
+Să ne bucurăm în El
+
+Voi care-L lăudați pe Domnul
+Cel ce în veci pe noi ne-a apărat
+
+Voi care îl slăviți pe Domnul
+Să ne veselim în El
+---
+r
+Hai cântați cu-o inimă
+Glorie! Aleluia!
+
+Hai cântați toți într-un glas
+Glorie! Aleluia!
+
+Hai ridică steagul sus
+Onorează-l pe Isus
+
+Regele ce a biruit
+---
+s2
+Voi fii și fiice ale Regelui
+Inima să vă fie veselă
+
+Voi cei cu inima curată
+Veți vedea pe Dumnezeu
+---
+end
+Regele ce a biruit
+Regele ce a biruit
+---
+s1 r r s2 s2 r r r r r end

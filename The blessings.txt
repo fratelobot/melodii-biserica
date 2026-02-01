@@ -1,0 +1,39 @@
+v1
+Domnul fie cu tine
+Fața Lui să lumineze
+
+Mereu ființa ta
+Să-ți umple viața
+
+Cu pacea Sa
+---
+pre
+Amin, amin, amin
+Amin, amin, amin
+---
+r
+Harul Lui să se reverse
+Peste mii de generații
+
+Binecuvântați să fie
+Și părinții, și copiii
+---
+b1
+Iar prezența Lui să fie
+Și ‘nainte și în urmă
+
+Lângă tine și in tine
+Dumnezeu fie cu tine
+---
+b2
+De e zi sau de e noapte
+La plecare la venire
+
+In durere-n bucurie
+Nu te lasă e cu tine
+---
+end
+E cu tine, E cu tine, E cu tine
+E cu tine, E cu tine, E cu tine
+---
+v1 v1 pre v1 pre pre r r r b1 b2 b2 end pre pre r b1 b2 end

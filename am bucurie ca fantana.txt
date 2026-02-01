@@ -1,0 +1,48 @@
+r
+Am bucurie ca fantana
+Eu am o pace ca o mare
+
+Eu am iubire ca un fluviu
+In inima mea
+---
+v1
+Am bucurie ca fantana
+Am bucurie ca fantana
+
+In inima mea
+Am bucurie ca fantana
+
+Am bucurie ca fantana
+In inima mea
+---
+v2
+Eu am o pace ca o mare
+Eu am o pace ca o mare
+
+In inima mea
+Eu am o pace ca o mare
+
+Eu am o pace ca o mare
+In inima mea
+---
+v3
+Eu am iubire ca un fluviu
+Eu am iubire ca un fluviu
+
+In inima mea
+Eu am iubire ca un fluviu
+
+Eu am iubire ca un fluviu
+In inima mea
+---
+v4
+Fiindca Isus este-n mine
+Fiindca Isus este-n mine
+
+In inima mea
+Fiindca Isus este-n mine
+
+Fiindca Isus este-n mine
+In inima mea
+---
+v1 v2 v3 v4 r r

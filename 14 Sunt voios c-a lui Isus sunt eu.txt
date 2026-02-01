@@ -1,0 +1,25 @@
+r
+Slavă Lui (6x)
+Aleluia, slavă Lui
+---
+v1
+(: Sunt voios c-al lui Isus sunt eu :)
+Aleluia , slavă Lui
+---
+v2
+(: Sunt voios că Isus m-a primit:)
+Aleluia , slavă Lui
+---
+v3
+(: Sunt voios că Isus m-a iertat:)
+Aleluia, slavă Lui
+---
+v4
+(: Sunt voios că sunt al Domnului :)
+Aleluia, slavă Lui
+---
+v5
+(: Sunt voios că El mă conduce :)
+Aleluia , slavă Lui
+---
+v1 r r v2 r v3 r v4 r v5

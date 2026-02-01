@@ -1,0 +1,21 @@
+r
+Tu esti dragostea mea
+Esti speranta in care ma-ncred
+
+Esti nadejdea mea
+Si-ti voi canta ALELUIA:2
+---
+v1
+ITI CANT ALELUIA,ALELUIA
+ITI CANT ALELUIA, :2
+
+TE VOI BINECUVANTA:3
+---
+v2
+ITI CANT ALELUIA,ALELUIA
+ITI CANT ALELUIA, :2
+
+TE VOI BINECUVANTA:3
+Amin
+---
+r v1 r v2

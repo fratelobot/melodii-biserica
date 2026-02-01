@@ -1,0 +1,63 @@
+r
+Doamne te-asteptam cu dor
+Stim ca vei veni pe nori
+
+Ca un stol de porumbei
+Doamne Tu o sa ne iei
+
+: Doamne te-asteptam cu dor
+Stim ca vei veni pe nori
+
+Ca un stol de porumbei
+Doamne Tu o sa ne iei
+
+:Va fi o zi mare o zi de sarbatoare
+Rapirea crestinilor:x2
+---
+v1
+Sunati din trambita in Sion
+Trezitii pe acei ce dorm
+
+Umpleti-va de Duhul Sfant
+Curand plecam de pe pamant
+---
+v2
+Crestinilor nu va inselati
+Cu lumea nu va asemanati
+
+Ca numai cine este sfant
+Va fi luat de pe pamant
+---
+v3
+Iar candela va fie plina
+Cu untdelemn sa fi-ti lumina
+
+Strigarea cand s-o auzi
+Sa ne-naltam spre vesnicii
+---
+v4
+Ne-om intalni cu Domnul Sfant
+Si vom uita de acest pamant
+
+Acolo in Rai in vesnicii
+Trai-vom numai bucurii
+---
+v5
+Doamne te-asteptam cu dor
+Stim ca vei veni pe nori
+
+Ca un stol de porumbei
+Doamne Tu o sa ne iei
+
+: Doamne te-asteptam cu dor
+Stim ca vei veni pe nori
+
+Ca un stol de porumbei
+Doamne Tu o sa ne iei
+
+:Va fi o zi mare o zi de sarbatoare
+Rapirea crestinilor:x2
+
+Amin
+---
+v1 r v2 r v3 r v4 v5

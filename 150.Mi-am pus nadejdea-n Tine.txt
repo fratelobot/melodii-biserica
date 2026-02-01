@@ -1,0 +1,45 @@
+r
+Ești Domn al Domnilor
+Rege-al regilor
+
+Împărat al veșniciilor
+---
+v1
+În Tine e nădejdea mea
+În Tine e speranța mea
+
+Doar prin Tine izbăvire voi primi
+Cu Tine ne-ncetat voi birui
+
+Domnul meu
+---
+v2
+Mi-am pus nădejdea-n Tine
+Mi-am pus nădejdea-n Tine
+
+Să nu fiu dat de rușine
+Mi-am pus nădejdea-n Tine
+
+Mi-am pus nădejdea-n Tine
+Vrăjmașii mei să nu se bucure de mine
+---
+v3
+Tu-mi ești Stâncă tare
+Tu-mi ești Stâncă tare
+
+Adăpost când îmi este greu
+Tu-mi ești Stâncă tare
+
+Tu-mi ești Stâncă tare
+Tu ești Dumnezeul meu
+---
+v4
+Steag de biruință, ești steag de biruință
+În lupta înverșunată
+
+Ești steag de biruință
+Ești steag de biruință
+
+Cu Tine lupta-i câștigată
+---
+v2 v3 v1 v4 v1 r r r r v1

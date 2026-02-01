@@ -1,0 +1,36 @@
+r
+Eu voi învia
+Nimeni nu mă va putea lega
+
+Da, voi învia
+Moartea nu Mă va ţinea
+---
+v1
+Nu te-opri, bate-mi cuie-n mâini
+Crezând că-i bine aşa
+
+Fă ce vrei, dar nu uita
+Într-o zi vei regreta
+---
+v2
+Nu te-opri, bateţi joc
+Eu te iubesc neîncetat
+
+Fă ce vrei, dar în curând
+Eu voi fi eliberat
+---
+v3
+Fă ce vrei, dar şi acum
+Tu vei vedea că ai greşit
+
+Nu te-opri, eşti liber azi
+Să faci ce vrei, dar nu uita
+---
+r2
+Eu voi reveni
+Nu-i putere să mă poat-opri
+
+Da, voi reveni
+Şi poporu-mi voi răpi
+---
+v1 r v2 r v3 r2 r2

@@ -1,0 +1,35 @@
+r
+Lasă mila Ta să cadă
+Să curgă mila Ta din cer
+
+E nouă zi de zi
+O, lasă să cadă peste noi
+---
+v1
+O inimă care e zdrobită
+Nicicând n-o vei refuza
+
+Inima Ta bate plină de milă pentru noi
+Să curgă râuri din Duhul Tău
+
+Doamne, Te rugăm
+---
+v2
+Mărturisim acum că suntem slabi
+Aşa de slabi, dar Tu eşti Domn
+
+Chiar dacă n-avem nimic să-ți oferim
+Venim şi Îţi spunem
+
+“Doamne, ajută-ne!”
+---
+v3
+Mărturisim acum că suntem slabi
+Aşa de slabi, dar Tu eşti Domn
+
+Chiar dacă n-avem nimic să-ți oferim
+Venim şi Îţi spunem
+
+“Doamne, ajuta-ne!”
+---
+v2 v1 r r v3 v1 r r v1 r r

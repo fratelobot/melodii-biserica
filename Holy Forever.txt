@@ -1,0 +1,46 @@
+v1
+Mii de generații se pleacă-n adorare
+Și cântă toți Cântarea Mielului
+
+Acei ce-au fost ‘nainte și cei ce vor veni
+Toți vor cânta Cântarea Mielului
+---
+pre
+Tu ești Cel mai mare
+Domnești în splendoare
+
+Tu ești mai presus de orice tron
+
+De-orice împărăție
+De-orice stăpânire
+
+Tu ești mai presus de toți
+---
+r
+Cântă îngerii - Sfânt ești
+Universu-ntreg - Sfânt ești
+
+Tu ești înălțat - Sfânt ești
+Din veșnicie
+---
+v2
+Dacă ai primit iertarea și ai fost răscumpărat
+Cântă azi Cântarea Mielului
+
+Dacă umbli-n libertate și porți Numele Său
+Cântă azi Cântarea Mielului
+
+Vom cânta pe veci Cântarea Mielului
+---
+r2
+Noi cântăm acum - Sfânt ești
+Rege-al regilor - Sfânt ești
+
+Dumnezeu măreț - Sfânt ești
+Din veșnicie
+---
+end
+Dumnezeu măreț - Sfânt ești
+Din veșnicie
+---
+v1 pre r v2 r r2 pre pre r r2 end

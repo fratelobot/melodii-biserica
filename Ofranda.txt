@@ -1,0 +1,51 @@
+r
+Azi ma prostern
+In fata Ta,o Doamne
+
+Sa-ti multumesc pentru tot
+Ce ai facut pentru mine
+---
+v1
+Azi Doamne vin
+Ofranda inimi
+
+Ti-o aduc si ma inchin
+Azi Doamne vin
+
+Sa simt prezenta Ta
+Sa simt iubirea Ta
+
+De Tata
+---
+v2
+Vreau zi de zi
+Sa m-alipesc,o,Doamne
+
+Sufletul meu sa Te inalte
+Si sa Te adore
+---
+v3
+Azi Doamne vin
+Ofranda inimi
+
+Ti-o aduc si ma inchin
+Azi Doamne vin
+
+Sa simt prezenta Ta
+Sa simt iubirea Ta
+
+De Tata
+Azi Doamne vin
+
+Ofranda inimi
+Ti-o aduc si ma inchin
+
+Azi Doamne vin
+Sa simt prezenta Ta
+
+Sa simt iubirea Ta
+De Tata
+
+AMIN
+---
+r r v1 v2 v3

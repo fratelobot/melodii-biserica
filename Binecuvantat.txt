@@ -1,0 +1,42 @@
+r
+Binecuvântat să fii Tu
+Binecuvântat
+
+Binecuvântat să fii Tu
+Numele să-Ţi fie înălţat
+---
+v1
+Orice binecuvântare
+Alegi să-mi dai
+
+Eu cu laudă-Ţi voi răspunde
+Şi voi cânta
+---
+v2
+Binecuvântat să fie al Tău nume sfânt
+Când pământul e roditor
+
+Binecuvântat
+Binecuvântat să fie al Tău nume sfânt
+
+Când deşert e în jurul meu
+Binecuvântat
+---
+v3
+Binecuvântat să fie al Tău nume sfânt
+Când zâmbesc şi sunt fericit
+
+Binecuvântat
+Binecuvântat să fie al Tău nume sfânt
+
+Şi când lacrimi îmi curg pe-obraz
+Binecuvântat
+---
+v4
+Căci Tu eşti Cel ce dai
+Şi Cel ce iei 'napoi
+
+Din inimă-am strigat
+Fii binecuvântat
+---
+v2 v1 r v3 v1 r v4 r

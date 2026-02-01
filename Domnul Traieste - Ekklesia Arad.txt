@@ -1,0 +1,35 @@
+r
+Domnul trăiește, în veci glorificat
+Domnul trăiește, E rege, e viu cu adevărat
+---
+v1
+Moarte unde ești? El te-a biruit
+Unde-i boldul tău? El te-a cucerit
+---
+v2
+Cel ce-a înviat, E soare minunat
+
+Frica a străpuns
+E de neînvins, veșnic neînvins e
+
+Isus în veci trăiește
+Și-n veci de veci domnește
+---
+r2
+Domnul trăiește, în veci glorificat
+Domnul trăiește, E rege, e viu și azi
+
+Domnul trăiește, în veci glorificat
+Domnul trăiește, E rege, e viu cu adevărat
+---
+b
+Acea putere, acea putere
+Ce iadul a zdrobit
+
+Acea putere, acea putere
+O am până la sfârșit
+---
+end
+Domnul e viu cu-adevărat
+---
+r v1 v2 r v2 r2 b b b r2 end

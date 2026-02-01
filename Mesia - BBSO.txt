@@ -1,0 +1,37 @@
+v1
+Așteptata promisiune
+Fiu de om și Dumnezeu
+
+Prințul Slavei într-o iesle
+S-a coborât la Betleem
+---
+r
+Mesia, Mesia
+Acest Copil ne-a mântuit
+
+Mesia, Mesia
+Lui ne închinăm
+---
+v2
+În duioasa Lui privire
+Căutarea s-a sfârșit
+
+În această sfântă noapte
+Pe veci speranță am primit
+---
+b
+Veniți să ne-nchinăm Lui
+Veniți să ne-nchinăm Lui
+
+Veniți să ne-nchinăm Lui
+El este Domn
+---
+v3
+Așteptata promisiune
+Curând va reveni
+---
+end
+Lui ne închinăm
+Pe genunchi ne plecăm
+---
+v1 r v2 r b v3 r end
