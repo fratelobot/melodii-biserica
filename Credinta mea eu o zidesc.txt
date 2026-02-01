@@ -32,4 +32,4 @@ Si celor morti sus va striga
 Neprihanirea Lui va fi
 Chiar haina-n care voi luci
 ---
-v1 r v2 r r v3 r r
+v1 v1 r v2 r r v3 r r
